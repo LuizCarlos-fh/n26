@@ -8,6 +8,7 @@ returns the statistic based of the transactions of the last 60 seconds.
 
 Specs
 POST /transactions
+
 Every Time a new transaction happened, this endpoint will be called.
 
 Where:
